@@ -32,7 +32,7 @@ function App() {
                             className="block text-gray-700 text-sm font-bold mb-2"
                             htmlFor="pw"
                         >
-                            비밀번호
+                            비밀번호1
                         </label>
                         <input
                             id="pw"
